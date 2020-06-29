@@ -1,3 +1,5 @@
+create database projeto_poo_condominio;
+
 create table tb_morador(
 	id_morador int auto_increment not null primary key,
     nome varchar(255),
